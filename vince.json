@@ -1,1 +1,30 @@
-{"addons": [{"title": "Magisk", "summary": "Magisk", "url": "\"http://tiny.cc/latestmagisk"}, {"title": "Magisk", "summary": "Magisk Uninstaller", "url": "http://tiny.cc/latestuninstaller"}], "filename": "BeastROMs-1.1-vince-OFFICIAL-20190203-0841.zip", "changelog": "- Fixed manual network selection\n- Added Music visualizer\n- New Dirac implementation\n- Add proximity autoanswer feature\n- Dialer auto proximity speakerphone\n- Re-add dialer lookup\n- Removed useless \"Turbo\"\n- Fixed Updates app\n- Another small fixes, cleanups, tweaks\n- Improve system stability and performance", "filesize": "651862483", "md5": "e283aec55b2208ec54eb5420fed62684", "build_date": "20190203", "device": "vince", "url": "https://downloads.sourceforge.net/project/beastroms/vince/BeastROMs-1.1-vince-OFFICIAL-20190203-0841.zip?r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Fbeastroms%2Ffiles%2Fvince%2FBeastROMs-1.1-vince-OFFICIAL-20190203-0841.zip%2Fdownload&ts=1549184842vince/BeastROMs-1.1-vince-OFFICIAL-20190203-0841.zip", "donate_url": "https://qiwi.com/p/79083261488", "developer_url": "http://github.com/mdeejay", "news_url": "http://github.com/BeastRoms", "developer": "mdeejay", "error": "false", "website_url": "https://t.me/beastroms", "forum_url": "https://t.me/beastroms", "device_brand": "Xiaomi", "device_model": "Redmi 5 Plus"}
+{
+  "addons": [
+    {
+      "title": "Magisk",
+      "summary": "Magisk",
+      "url": "\"http://tiny.cc/latestmagisk"
+    },
+    {
+      "title": "Magisk",
+      "summary": "Magisk Uninstaller",
+      "url": "http://tiny.cc/latestuninstaller"
+    }
+  ],
+  "filename": "BeastROMs-1.1-vince-OFFICIAL-20190205-1516.zip",
+  "changelog": "- February security patch (Android_9.0_r33)\n- Removed Screen stabilization\n- Improve system stability and performance\n- Updated russian translations",
+  "filesize": "651659712",
+  "md5": "9cffd39eb97de93770a7467c60ebaef1",
+  "build_date": "20190205",
+  "device": "vince",
+  "url": "https://downloads.sourceforge.net/project/beastroms/vince/BeastROMs-1.1-vince-OFFICIAL-20190205-1516.zip?r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Fbeastroms%2Ffiles%2Fvince%2FBeastROMs-1.1-vince-OFFICIAL-20190205-1516.zip%2Fdownload&ts=1549384991",
+  "donate_url": "https://qiwi.com/p/79083261488",
+  "developer_url": "http://github.com/mdeejay",
+  "news_url": "https://github.com/BeastRoms",
+  "developer": "mdeejay",
+  "error": "false",
+  "website_url": "https://t.me/beastroms",
+  "forum_url": "",
+  "device_brand": "Xiaomi",
+  "device_model": "Redmi 5 Plus"
+}

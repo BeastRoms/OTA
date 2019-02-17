@@ -1,0 +1,30 @@
+{
+  "addons": [
+    {
+      "title": "Magisk",
+      "summary": "Magisk",
+      "url": "\"http://tiny.cc/latestmagisk"
+    },
+    {
+      "title": "Magisk",
+      "summary": "Magisk Uninstaller",
+      "url": "http://tiny.cc/latestuninstaller"
+    }
+  ],
+  "filename": "BeastROMs-1.2-santoni-OFFICIAL-20190216-1100.zip",
+  "changelog": "- Added On-The-Go feature\n- Added On-The-Go Tile\n- Fixed media art cover\n- Random PoorMan Themes fixes\n- Switch Lawnchair V2 launcher\n- Improve stability and performance\n- Back to AOSP FM Radio app\n- kernel: Upstreamed to 4.9.158 kernel",
+  "filesize": "596441825",
+  "md5": "0d9bd8a7e51db0b5fc1b134b6d7bd8ac",
+  "build_date": "20190216",
+  "device": "santoni",
+  "url": "https://sourceforge.net/projects/beastroms/files/santoni/BeastROMs-1.2-santoni-OFFICIAL-20190216-1100.zip/download",
+  "donate_url": "https://qiwi.com/p/79083261488",
+  "developer_url": "http://github.com/mdeejay",
+  "news_url": "https://github.com/BeastRoms",
+  "developer": "Error Network 28",
+  "error": "false",
+  "website_url": "https://t.me/beastroms",
+  "forum_url": "",
+  "device_brand": "Xiaomi",
+  "device_model": "Redmi 4X"
+}

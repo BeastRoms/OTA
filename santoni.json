@@ -1,0 +1,30 @@
+{
+  "addons": [
+    {
+      "title": "Magisk",
+      "summary": "Magisk",
+      "url": "\"http://tiny.cc/latestmagisk"
+    },
+    {
+      "title": "Magisk",
+      "summary": "Magisk Uninstaller",
+      "url": "http://tiny.cc/latestuninstaller"
+    }
+  ],
+  "filename": "BeastROMs-1.2-santoni-OFFICIAL-20190223-0905.zip",
+  "changelog": "- Added navbar layout inversion tuning\n- Fixed Spotify crashes \n- Added screen off animations \n- Added Random system animations \n- Added ability to hide lockscreen items \n- Introduce lockscreen clock/date styles \n- Fixed battery incorrect percents position \n- Fixed HW-keys actions (screenshot etc.) \n- Added new PoorMan Themes: \"Violator\", \"Teal Meal\" \n- Random PoorMan theming fixes \n- Updated default wallpapers (Thanks ro SerJo87)\n- Improve system stability and performance\n",
+  "filesize": "595043474",
+  "md5": "e7fb5f9a7d0386da2e43f6b15baafeb7",
+  "build_date": "20190223",
+  "device": "santoni",
+  "url": "https://sourceforge.net/projects/beastroms/files/santoni/BeastROMs-1.2-santoni-OFFICIAL-20190223-0905.zip/download",
+  "donate_url": "https://qiwi.com/p/79083261488",
+  "developer_url": "http://github.com/mdeejay",
+  "news_url": "https://github.com/BeastRoms",
+  "developer": "Error Network 28",
+  "error": "false",
+  "website_url": "https://t.me/beastroms",
+  "forum_url": "",
+  "device_brand": "Xiaomi",
+  "device_model": "Redmi 4X"
+}

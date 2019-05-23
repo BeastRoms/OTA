@@ -1,0 +1,30 @@
+{
+  "addons": [
+    {
+      "title": "Magisk",
+      "summary": "Magisk",
+      "url": "\"http://tiny.cc/latestmagisk"
+    },
+    {
+      "title": "Magisk",
+      "summary": "Magisk Uninstaller",
+      "url": "http://tiny.cc/latestuninstaller"
+    }
+  ],
+  "filename": "BeastROMs-1.4-beryllium-OFFICIAL-20190523-1305.zip",
+  "changelog": "- kernel: Upstream to 4.9.178 (beryllium, vince, tissot)\n- Merge CAF tag LA.UM.7.3.r1-07800-sdm845.0\n- Random BoostFramework fixes and tweaks\n- Settings: display fstype for mounted volumes\n- Dialer: Cleanups and add autorecord feature\n- Dialer: Fix crash on call end\n- Launcher3: Rounded hexagons icons\n- LiveDisplay: Change night/day mode transition behavior\n- LiveDisplay: Use Google's algorithm to convert color temperature to RGB\n- Added Compass tile\n- Switch to Gboard GO\n- Add support to screenshot editor (Markup)\n- PoorManThemes: Messages: fix conversation list select menu icons color\n- Added ANIMATION_DURATION option\n- Added ANIMATION_NO_OVERRIDE option\n- Fixed auto-brightness first screen update\n- Update CarrierConfig overlays from OSS 9\n- Update APNs list\n- Other fixes and system optimizations",
+  "filesize": "592021338",
+  "md5": "278558c1ad91c94190a3f5abc4e0b77e",
+  "build_date": "20190523",
+  "device": "beryllium",
+  "url": "https://downloads.sourceforge.net/project/beastroms/beryllium/BeastROMs-1.4-beryllium-OFFICIAL-20190523-1305.zip?r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Fbeastroms%2Ffiles%2Fberyllium%2FBeastROMs-1.4-beryllium-OFFICIAL-20190523-1305.zip%2Fdownload&ts=1558618541",
+  "donate_url": "https://qiwi.com/p/79083261488",
+  "developer_url": "http://github.com/mdeejay",
+  "news_url": "https://github.com/BeastRoms",
+  "developer": "mdeejay",
+  "error": "false",
+  "website_url": "https://t.me/beastroms",
+  "forum_url": "",
+  "device_brand": "Pocophone",
+  "device_model": "F1"
+}

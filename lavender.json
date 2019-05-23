@@ -1,0 +1,30 @@
+{
+  "addons": [
+    {
+      "title": "Magisk",
+      "summary": "Magisk",
+      "url": "\"http://tiny.cc/latestmagisk"
+    },
+    {
+      "title": "Magisk",
+      "summary": "Magisk Uninstaller",
+      "url": "http://tiny.cc/latestuninstaller"
+    }
+  ],
+  "filename": "BeastROMs-1.4-lavender-OFFICIAL-20190523-1256.zip",
+  "changelog": "- kernel: Upstream to 4.9.178 (beryllium, vince, tissot)\n- Merge CAF tag LA.UM.7.3.r1-07800-sdm845.0\n- Random BoostFramework fixes and tweaks\n- Settings: display fstype for mounted volumes\n- Dialer: Cleanups and add autorecord feature\n- Dialer: Fix crash on call end\n- Launcher3: Rounded hexagons icons\n- LiveDisplay: Change night/day mode transition behavior\n- LiveDisplay: Use Google's algorithm to convert color temperature to RGB\n- Added Compass tile\n- Switch to Gboard GO\n- Add support to screenshot editor (Markup)\n- PoorManThemes: Messages: fix conversation list select menu icons color\n- Added ANIMATION_DURATION option\n- Added ANIMATION_NO_OVERRIDE option\n- Fixed auto-brightness first screen update\n- Update CarrierConfig overlays from OSS 9\n- Update APNs list\n- Other fixes and system optimizations",
+  "filesize": "633682454",
+  "md5": "26d51abb6aaa582b9fb4d35ffac2aa9d",
+  "build_date": "20190523",
+  "device": "lavender",
+  "url": "https://downloads.sourceforge.net/project/beastroms/lavender/BeastROMs-1.4-lavender-OFFICIAL-20190523-1256.zip?r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Fbeastroms%2Ffiles%2Flavender%2FBeastROMs-1.4-lavender-OFFICIAL-20190523-1256.zip%2Fdownload&ts=1558618417",
+  "donate_url": "https://qiwi.com/p/79083261488",
+  "developer_url": "http://github.com/obsvg216",
+  "news_url": "https://github.com/BeastRoms",
+  "developer": "obsvg216",
+  "error": "false",
+  "website_url": "https://t.me/beastroms",
+  "forum_url": "",
+  "device_brand": "Xiaomi",
+  "device_model": "Redmi Note 7"
+}

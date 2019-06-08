@@ -1,0 +1,30 @@
+{
+  "addons": [
+    {
+      "title": "Magisk",
+      "summary": "Magisk",
+      "url": "\"http://tiny.cc/latestmagisk"
+    },
+    {
+      "title": "Magisk",
+      "summary": "Magisk Uninstaller",
+      "url": "http://tiny.cc/latestuninstaller"
+    }
+  ],
+  "filename": "BeastROMs-1.5-violet-OFFICIAL-20190608-0126.zip",
+  "changelog": "- BeastROMs v.1.5\n- June Security Patch (Android-9.0.0-r40)\n- Introduce Redmi Note 7 Pro (violet) support\n- Rebased framewokrs/base\n- Added back lockscreen visualizer\n- Added back Pulse (Stock nav. bar)\n- Added toggle for lockscreen meadia art\n- Added toggle for lockscreen weather\n- Added wireles charging animation for wired\n- BoostFramework fixes\n- Other fixes and system optimizations",
+  "filesize": "834918507",
+  "md5": "ebc7dd9ac4187825f757bfa625757361",
+  "build_date": "20190608",
+  "device": "violet",
+  "url": "https://downloads.sourceforge.net/project/beastroms/violet/BeastROMs-1.5-violet-OFFICIAL-20190608-0126.zip?r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Fbeastroms%2Ffiles%2Fviolet%2FBeastROMs-1.5-violet-OFFICIAL-20190608-0126.zip%2Fdownload&ts=1559961877",
+  "donate_url": "https://qiwi.com/p/79083261488",
+  "developer_url": "http://github.com/mdeejay",
+  "news_url": "https://github.com/BeastRoms",
+  "developer": "mdeejay",
+  "error": "false",
+  "website_url": "https://t.me/beastroms",
+  "forum_url": "",
+  "device_brand": "Xiaomi",
+  "device_model": "Redmi Note 7 Pro"
+}

@@ -1,0 +1,30 @@
+{
+  "addons": [
+    {
+      "title": "Magisk",
+      "summary": "Magisk",
+      "url": "\"http://tiny.cc/latestmagisk"
+    },
+    {
+      "title": "Magisk",
+      "summary": "Magisk Uninstaller",
+      "url": "http://tiny.cc/latestuninstaller"
+    }
+  ],
+  "filename": "BeastROMs-1.5-cepheus-OFFICIAL-20190629-1029.zip",
+  "changelog": "- kernel: 4.9.184 Upstream (beryllium, tissot, vince)\n- kernel: 4.4.184 Upstream (lavender)\n- kernel: 4.14.131 Upstream (violet)\n- Allow disabling quick settings on secure lock screen\n- Introduce statusbar brightness control\n- Q seekbar: Add extra tweaks\n- Fix multiuser icon glitch in QS footer\n- Import Android Q activity animations\n- SmartCharging: add reset battery stats option\n- Decrease padding for statusbar icons\n- Launcher3: Random fixes\n- Other fixes and system optimizations",
+  "filesize": "537954744",
+  "md5": "0bea16b05679ea855eef5d90ad3ca7a9",
+  "build_date": "20190629",
+  "device": "cepheus",
+  "url": "https://sourceforge.net/projects/beastroms/files/cepheus/BeastROMs-1.5-cepheus-OFFICIAL-20190629-1029.zip/download",
+  "donate_url": "https://qiwi.com/p/79083261488",
+  "developer_url": "http://github.com/mdeejay",
+  "news_url": "https://github.com/BeastRoms",
+  "developer": "mdeejay",
+  "error": "false",
+  "website_url": "https://t.me/beastroms",
+  "forum_url": "",
+  "device_brand": "Xiaomi",
+  "device_model": "Mi9"
+}

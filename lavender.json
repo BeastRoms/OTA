@@ -11,13 +11,13 @@
       "url": "http://tiny.cc/latestuninstaller"
     }
   ],
-  "filename": "BeastROMs-1.5-lavender-OFFICIAL-20190704-1135.zip",
+  "filename": "BeastROMs-1.5-lavender-OFFICIAL-20190706-0503.zip",
   "changelog": "- July security patch (Android-9.0.0_r45)\n- perfLock: Enable ActivityBoost\n- SystemUI: Fix powermenu layouts\n- SystemUI: Protect against terrible music players\n- base: Fix old mobile signal icons\n- Stable seek bar positioning\n- Other fixes and system optimizations",
-  "filesize": "800624759",
-  "md5": "8bd213614749c4e8f391ff0a107aa97d",
-  "build_date": "20190704",
+  "filesize": "800910194",
+  "md5": "ee5586841ee2d150c40c4e96b6b9633c",
+  "build_date": "20190706",
   "device": "lavender",
-  "url": "https://sourceforge.net/projects/beastroms/files/lavender/BeastROMs-1.5-lavender-OFFICIAL-20190704-1135.zip/download",
+  "url": "https://sourceforge.net/projects/beastroms/files/lavender/BeastROMs-1.5-lavender-OFFICIAL-20190706-0503.zip/download",
   "donate_url": "https://qiwi.com/p/79083261488",
   "developer_url": "http://github.com/obsvg216",
   "news_url": "https://github.com/BeastRoms",

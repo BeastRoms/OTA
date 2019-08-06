@@ -1,0 +1,30 @@
+{
+  "build_date": "20190806",
+  "developer_url": "http://github.com/BeastRoms",
+  "md5": "e647cbd0f06ce10c5b107d8e31b3ca1b",
+  "device": "X00T",
+  "news_url": "https://github.com/BeastRoms",
+  "forum_url": "",
+  "device_model": "Zenfone Max Pro M1",
+  "filename": "BeastROMs-1.6-X00T-OFFICIAL-20190806-1124.zip",
+  "addons": [
+    {
+      "title": "Magisk",
+      "summary": "Magisk",
+      "url": "\"http://tiny.cc/latestmagisk"
+    },
+    {
+      "title": "Magisk",
+      "summary": "Magisk Uninstaller",
+      "url": "http://tiny.cc/latestuninstaller"
+    }
+  ],
+  "website_url": "https://t.me/beastroms",
+  "filesize": "666905347",
+  "device_brand": "Asus",
+  "developer": "adityak2564",
+  "url": "https://sourceforge.net/projects/beastroms/files/X00T/BeastROMs-1.6-X00T-OFFICIAL-20190806-1124.zip/download",
+  "error": "false",
+  "donate_url": "https://qiwi.com/p/79083261488",
+  "changelog": "- BeastROMs v. 1.6\n- August Google security patch (Android-9.0.0_r47)\n- Added back allow to customize notification led light\n- Added 18 more styles for QS\n- Switch to BLACK Google animation \n- Added DANYCOM APN\n- SmartActions: Add media controls to bindable actions\n- Q style: Port Android Q lock icon on lock screen \n- KeyguardHostView: Auto face unlock v2\n- BoostFramework : Add an Update Hint on App update\n- OP gestures: add swipe start height setting\n- base: Import rest of animation from Pixel's Q4 preview image\n- Clock: Fix hiding of right clock on lockscreen\n- Fix StatusBar icons tinting when in split screen\n- Android Q style Wifi icons\n- QS tiles: Update icons from Android Q\n- Keyguard: Hide check button when using PIN quick unlock\n- Other fixes and system optimizations\n-Fixed network fluctuations "
+}
